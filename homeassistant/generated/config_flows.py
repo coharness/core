@@ -65,6 +65,7 @@ FLOWS = [
     "daikin",
     "deconz",
     "denonavr",
+    "destiny2vendor",
     "devolo_home_control",
     "devolo_home_network",
     "dexcom",

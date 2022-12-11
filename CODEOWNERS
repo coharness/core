@@ -200,6 +200,8 @@ homeassistant/components/denonavr/* @ol-iver @starkillerOG
 tests/components/denonavr/* @ol-iver @starkillerOG
 homeassistant/components/derivative/* @afaucogney
 tests/components/derivative/* @afaucogney
+homeassistant/components/destiny2vendor/* @coharness
+tests/components/destiny2vendor/* @coharness
 homeassistant/components/device_automation/* @home-assistant/core
 tests/components/device_automation/* @home-assistant/core
 homeassistant/components/devolo_home_control/* @2Fake @Shutgun

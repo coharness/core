@@ -1,0 +1,17 @@
+{
+  "domain": "destiny2vendor",
+  "name": "Destiny 2 Vendors",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/destiny2vendor",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [
+    "http"
+  ],
+  "codeowners": [
+    "@coharness"
+  ],
+  "iot_class": "cloud_polling"
+}
